@@ -10,12 +10,12 @@
         <img src="https://skillicons.dev/icons?i=python&theme=dark"></a>
   <a href="https://kotlinlang.org//">
        <img src="https://skillicons.dev/icons?i=kotlin&theme=dark"></a>
-  <a href=""
-       <img src="https://skillicons.dev/icons?i=html&theme=dark"></a>
-  <a href="https://kotlinlang.org//">
+  <a href="">
        <img src="https://skillicons.dev/icons?i=css&theme=dark"></a>
  <a href="https://www.javascript.com/">
       <img src="https://skillicons.dev/icons?i=javascript&theme=dark"></a>
+      <img src="https://skillicons.dev/icons?i=html&theme=dark"></a>
+ 
 </div>
 <br/>
 
